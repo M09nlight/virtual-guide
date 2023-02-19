@@ -63,6 +63,12 @@
                             <h3><span>Oshmyany</span></h3>
                         </a>
                     </div>
+                    <div class="box-img" data-aos="zoom-in">
+                        <a href="Mir/Mir.php" target="_blank">
+                            <img src="../../images/hotels/grodno/22_.jpg" alt="">
+                            <h3><span>Mir</span></h3>
+                        </a>
+                    </div>
                 </div>
             </div>
         </section>
@@ -185,28 +191,7 @@
                             <a href="https://gostinica-korelichi.ibiz.by/" target="_blank" class="website">Website</a>
                         </div>
                     </div>
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/21_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Mirskiy Posad</div>
-                            <p class="address">st. Kirova, 26
-                                g.p. Peace
-                                Grodno region, Korelichsky district</p>
-                            <a href="http://mirposadhotel.by/" target="_blank" class="website">Website</a>
-                        </div>
-                    </div>
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/22_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Mir Hotel</div>
-                            <p class="address">sq. September 17, 2, Mir</p>
-                            <a href="https://gostinitsy.by/mira/mir" target="_blank" class="website">Website</a>
-                        </div>
-                    </div>
+
                     <div class="box-eat">
                         <div class="image">
                             <img src="../../images/hotels/grodno/23_.jpg" alt="">
