@@ -19,7 +19,7 @@
     <section class="container">
             <div class="box">
 
-                <h3>Gomel region hotels</h3>
+                <h3>Grodno region hotels</h3>
                 <div class="grid">
                     <div class="box-img" data-aos="zoom-in">
                         <a href="Velyka Berestovitsa/Velyka Berestovitsa.php" target="_blank">
@@ -69,155 +69,30 @@
                             <h3><span>Mir</span></h3>
                         </a>
                     </div>
-                </div>
-            </div>
-        </section>
-        <section class="container">
-            <div class="box">
-                <h3>Grodno region hotels</h3>
-
-                <div class="box-container">
-
-                 
-
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/2_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Konstantin Hotel</div>
-                            <p class="address">Berestovitsky district, Grodno region, pos. Border, Sovetskaya st.</p>
-                        </div>
-                    </div>
-                    <div class="box-eat">
-                        <div class="image">
+                    <div class="box-img" data-aos="zoom-in">
+                        <a href="Volkovysk/Volkovysk.php" target="_blank">
                             <img src="../../images/hotels/grodno/3_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Hotel Voyage Volkovysk</div>
-                            <p class="address">9B Lenina Street, Volkovysk</p>
-                            <a href="https://gostinitsa-voiazh-vawkavysk.nochi.com/" target="_blank"
-                                class="website">Website</a>
-                        </div>
+                            <h3><span>Volkovysk</span></h3>
+                        </a>
                     </div>
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/4_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Agroecoestate "Olkhovo"</div>
-                            <p class="address">THE GRODNO REGION
-                                VOLKOVYSSKY DISTRICT,
-                                D.OLKHOVO, 33</p>
-                        </div>
-                    </div>
-                  
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/13_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Sanatorium Alfa Radon</div>
-                            <p class="address">Danilovichi, 4, Boroviki</p>
-                            <a href="https://alfaradon.by/" target="_blank" class="website">Website</a>
-                        </div>
-                    </div>
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/14_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Uncle Ivan</div>
-                            <p class="address">Grodno region, city pl. September 17, 5a, Dyatlovo</p>
-                            <a href="https://belhotel.by/?gostinica_Dyadya_Vanya_Dyatlovo" target="_blank"
-                                class="website">Website</a>
-                        </div>
-                    </div>
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/15_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Hotel Panikva</div>
-                            <p class="address">Danilovichsky s/s 32/1</p>
-                            <a href="https://www.panikva.by/" target="_blank" class="website">Website</a>
-                        </div>
-                    </div>
-                    <div class="box-eat">
-                        <div class="image">
+                    <div class="box-img" data-aos="zoom-in">
+                        <a href="Zelva/Zelva.php" target="_blank">
                             <img src="../../images/hotels/grodno/16_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Zelva Hotel</div>
-                            <p class="address">per. Parkovy, 1, Zelva</p>
-                        </div>
+                            <h3><span>Zelva</span></h3>
+                        </a>
                     </div>
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/17_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Manor "Veres"</div>
-                            <p class="address">village Kozlovichi, Zelvensky district, Grodno region</p>
-                            <a href="http://www.veres.by/" target="_blank" class="website">Website</a>
-                        </div>
+                    <div class="box-img" data-aos="zoom-in">
+                        <a href="Olkhovo/Olkhovo.php" target="_blank">
+                            <img src="../../images/hotels/grodno/4_.jpg" alt="">
+                            <h3><span>Olkhovo</span></h3>
+                        </a>
                     </div>
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/18_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Hotel Ivie RUE Housing and Public Utilities Category III</div>
-                            <p class="address">Grodno region, Ivye, st. 50 years of October, d.22</p>
-                        </div>
+                    <div class="box-img" data-aos="zoom-in">
+                        <a href="Boroviki/Boroviki.php" target="_blank">
+                            <img src="../../images/hotels/grodno/13_.jpg" alt="">
+                            <h3><span>Boroviki</span></h3>
+                        </a>
                     </div>
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/19_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Motel "Khvilinka"</div>
-                            <p class="address">Grodno region, Ivye district, Rasolishki village (M6 Minsk-Grodno
-                                highway)</p>
-                        </div>
-                    </div>
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/20_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Hotel "Korelichi"</div>
-                            <p class="address">Korelichi, Gagarina, 4</p>
-                            <a href="https://gostinica-korelichi.ibiz.by/" target="_blank" class="website">Website</a>
-                        </div>
-                    </div>
-
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/23_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Svetlazar's estate</div>
-                            <p class="address">31 Moskovskaya st., Mir</p>
-                            <a href="https://svetlazara.by/" target="_blank" class="website">Website</a>
-                        </div>
-                    </div>
-
-             
-
-                    <div class="box-eat">
-                        <div class="image">
-                            <img src="../../images/hotels/grodno/28_.jpg" alt="">
-                        </div>
-                        <div class="content">
-                            <div class="head">Manor "Jan and Cecilia"</div>
-                            <p class="address">Meshetniki, 25, Lunno 231607</p>
-                            <a href="https://holiday-home-1601.business.site/" target="_blank" class="website">Website</a>
-                        </div>
-                    </div>
-
-
-                  
                 </div>
             </div>
         </section>
