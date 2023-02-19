@@ -8,19 +8,19 @@
     <title>Welcome to Belarus</title>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
-    <link href="../../css/style.css" rel="stylesheet">
+    <link href="../../../css/style.css" rel="stylesheet">
 
 </head>
 
 <body>
 
-    <?php include('../../fragments/header.php'); ?>
+    <?php include('../../../fragments/header.php'); ?>
 
     <div class="container about">
         <section class="container2">
             <div class="box" data-aos="fade-up">
                 <h3>AMAKS Premier Hotel</h3>
-                <img src="../../images/hotels/mogilev/2_.jpg" alt="" class="image-block">
+                <img src="../../../images/hotels/mogilev/2_.jpg" alt="" class="image-block">
                 <p class="text">Hotel "Bobruisk", which can rightly be called a symbol of our ancient and beautiful
                     city, is one of the brightest and most recognizable architectural monuments in the Republic of
                     Belarus. The hotel "Bobruisk" is the hallmark of the city and is located in its very heart. In the
@@ -47,16 +47,16 @@
                     everything you need to make you feel at home. Lenin Square, Victory Square. "AMAKS Premier Hotel
                     Bobruisk" offers its guests comfortable rooms of various categories. The rooms have everything you
                     need to make you feel at home.</p>
-                <img src="../../images/hotels/mogilev/2_2.jpg" alt="" class="image-block">
+                <img src="../../../images/hotels/mogilev/2_2.jpg" alt="" class="image-block">
         </section>
     </div>
 
-    <?php include('../../fragments/footer.php'); ?>
+    <?php include('../../../fragments/footer.php'); ?>
 
     <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
-    <script src="../../js/google-translate.js"></script>
+    <script src="../../../js/google-translate.js"></script>
     <script src="//translate.google.com/translate_a/element.js?cb=TranslateInit"></script>
-    <script src="../../js/script.js"></script>
+    <script src="../../../js/script.js"></script>
 </body>
 
 </html>
