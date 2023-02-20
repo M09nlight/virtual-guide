@@ -539,20 +539,20 @@ for (let index = 0; index < arrayLocations.length; index++) {
     arrayLocationsSorted.push(arrayLocations[index]);
   }
 }
-let test = document.getElementsByClassName("test");
+let elementsFromPage = document.getElementsByClassName("sights");
 let elem = [];
 
 let defaultElem = document.createElement("div");
-defaultElem.classList.add("test");
+defaultElem.classList.add("sights");
 defaultElem.setAttribute("hidden", "true");
 
 let step = 0;
 for (let index = 0; index < arrayLocationsSorted.length; index++) {
-  elem[index] = test[index];
+  elem[index] = elementsFromPage[index];
 }
 
 for (let index = 0; index < elem.length; index++) {
-  elem[index]?.classList.remove("test");
+  elem[index]?.classList.remove("sights");
 }
 
 let marker = [];
