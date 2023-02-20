@@ -14,7 +14,7 @@
 
 <body>
   
-<?php include ('../fragments/header.php');?>
+<?php include ('../../fragments/header.php');?>
 
   <div class="container about">
     <section class="container2">
