@@ -81,6 +81,12 @@
                             <h3><span>Borovlyany</span></h3>
                         </a>
                     </div>
+                    <div class="box-img" data-aos="zoom-in">
+                        <a href="Minsk/Minsk.php" target="_blank">
+                            <img src="../../images/hotels/minsk/_.jpg" alt="">
+                            <h3><span>Minsk</span></h3>
+                        </a>
+                    </div>
                 </div>
             </div>
         </section>
