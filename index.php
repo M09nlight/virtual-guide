@@ -56,7 +56,7 @@
                     <div class="box" data-aos="fade-up">
                         <h3>About project "Welcome to Belarus"</h3>
                         <p class="text">The virtual guide "Welcome to Belarus " is designed for students on the lessons
-                            of foreign languages languages while studying topics "My homeland is Belarus, The sights of
+                            of foreign languages while studying topics "My homeland is Belarus, The sights of
                             Belarus, Tourism in Belarus". The purpose of the guide is to increase students' knowledge
                             about their homeland, to provide information about the most significant Belarusian
                             sights.The map is presented in 3 foreign languages: English, French, German.</p>
