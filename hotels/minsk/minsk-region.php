@@ -16,11 +16,17 @@
     <?php include('../../fragments/header.php'); ?>
 
     <div class="container regions">
-    <section class="container">
+        <section class="container">
             <div class="box">
 
                 <h3>Minsk region hotels</h3>
                 <div class="grid">
+                    <div class="box-img" data-aos="zoom-in">
+                        <a href="Minsk/Minsk.php" target="_blank">
+                            <img src="../../images/hotels/minsk/20_.jpg" alt="">
+                            <h3><span>Minsk</span></h3>
+                        </a>
+                    </div>
                     <div class="box-img" data-aos="zoom-in">
                         <a href="Borisov/Borisov.php" target="_blank">
                             <img src="../../images/hotels/minsk/1_.jpg" alt="">

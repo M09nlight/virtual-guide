@@ -24,7 +24,7 @@
    
                 <div class="box-eat">
                         <div class="image">
-                            <img src="../../images/hotels/grodno/16_.jpg" alt="">
+                            <img src="../../../images/hotels/grodno/16_.jpg" alt="">
                         </div>
                         <div class="content">
                             <div class="head">Zelva Hotel</div>

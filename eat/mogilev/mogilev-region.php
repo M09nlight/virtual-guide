@@ -23,6 +23,12 @@
 
                 <h3>Mogilev region eat</h3>
                 <div class="grid">
+                <div class="box-img" data-aos="zoom-in">
+                        <a href="Mogilev/Mogilev.php" target="_blank">
+                            <img src="../../images/eat/minsk/7_.jpg" alt="">
+                            <h3><span>Mogilev</span></h3>
+                        </a>
+                    </div>
                     <div class="box-img" data-aos="zoom-in">
                         <a href="Bobruisk/Bobruisk.php" target="_blank">
                             <img src="../../images/eat/minsk/1_.jpg" alt="">

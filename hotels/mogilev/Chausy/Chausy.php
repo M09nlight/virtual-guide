@@ -23,7 +23,7 @@
 
                     <div class="box-eat">
                         <div class="image">
-                            <img src="../../images/hotels/mogilev/13_.jpg" alt="">
+                            <img src="../../../images/hotels/mogilev/13_.jpg" alt="">
                         </div>
                         <div class="content">
                             <div class="head">Hotel Chausy</div>

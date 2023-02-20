@@ -38,7 +38,7 @@
 
                     <div class="box-eat">
                         <div class="image">
-                            <img src="../../images/hotels/minsk/15_2.jpg" alt="">
+                            <img src="../../../images/hotels/minsk/15_2.jpg" alt="">
                         </div>
                         <div class="content">
                             <div class="head">Hotel SmartMyrt</div>
@@ -53,7 +53,7 @@
                     </div>
                     <div class="box-eat">
                         <div class="image">
-                            <img src="../../images/hotels/minsk/16_2.jpg" alt="">
+                            <img src="../../../images/hotels/minsk/16_2.jpg" alt="">
                         </div>
                         <div class="content">
                             <div class="head">China Merchants Hotel</div>

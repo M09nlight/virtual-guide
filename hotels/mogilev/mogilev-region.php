@@ -19,8 +19,14 @@
         <section class="container">
             <div class="box">
 
-                <h3>Minsk region hotels</h3>
+                <h3>Mogilev region hotels</h3>
                 <div class="grid">
+                    <div class="box-img" data-aos="zoom-in">
+                        <a href="Mogilev/Mogilev.php" target="_blank">
+                            <img src="../../images/hotels/mogilev/24_.jpg" alt="">
+                            <h3><span>Mogilev</span></h3>
+                        </a>
+                    </div>
                     <div class="box-img" data-aos="zoom-in">
                         <a href="Bobruisk/Bobruisk.php" target="_blank">
                             <img src="../../images/hotels/mogilev/1_.jpg" alt="">

@@ -15,10 +15,16 @@
 <body>
     <?php include('../../fragments/header.php'); ?>
     <div class="container regions">
-    <section class="container">
+        <section class="container">
             <div class="box">
                 <h3>Minsk region eat</h3>
                 <div class="grid">
+                    <div class="box-img" data-aos="zoom-in">
+                        <a href="Minsk/Minsk.php" target="_blank">
+                            <img src="../../images/eat/minsk/21_.jpg" alt="">
+                            <h3><span>Minsk</span></h3>
+                        </a>
+                    </div>
                     <div class="box-img" data-aos="zoom-in">
                         <a href="Borisov/Borisov.php" target="_blank">
                             <img src="../../images/eat/minsk/1_.jpg" alt="">
@@ -49,10 +55,11 @@
                             <h3><span>Zhodino</span></h3>
                         </a>
                     </div>
+
                 </div>
             </div>
         </section>
-       
+
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
