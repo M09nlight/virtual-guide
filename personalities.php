@@ -508,7 +508,7 @@
     </div>
     <div class="box_ person" hidden>
         <div class="image">
-            <img src="images/personalities/32_.jpg" alt="">
+            <img src="images/personalities/32_.png" alt="">
         </div>
         <div class="content">
             <h3>Yakub Kolas</h3>
@@ -582,7 +582,7 @@
     </div>
     <div class="box_ person" hidden>
         <div class="image">
-            <img src="images/personalities/37_.jpg" alt="">
+            <img src="images/personalities/37_.png" alt="">
         </div>
         <div class="content">
             <h3>Kondrat Krapiva</h3>
