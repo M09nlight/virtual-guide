@@ -5299,7 +5299,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 <script src="https://cdn.anychart.com/geodata/2.2.0/countries/belarus/belarus.js"></script>
 <script src="js/leaflet/belarus.js"></script>
   <script type="text/javascript" src="js/leaflet/leaflet.js"></script>
-  <script src="https://unpkg.com/leaflet-routing-machine@lasights/dist/leaflet-routing-machine.js"></script>
+  <script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
 
   <script src="js/leaflet/L.Control.Locate.js"></script>
   <script type="text/javascript" src="js/leaflet/customized-map.js"></script>
