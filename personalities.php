@@ -16,14 +16,11 @@
 
 </head>
 <style>
-
     .coordinate {
         position: absolute;
         bottom: 10px;
         right: 50%;
     }
-
-
 
     .leaflet-popup-content .image {
         height: 30rem;
@@ -34,10 +31,15 @@
         color: var(--color6)
     }
 
+    .leaflet-popup-content-wrapper {
+        border-radius: 1rem;
+        width:40rem;
+        min-height: 15em;
+    }
+
     .leaflet-popup-content {
         width: 100% !important;
     }
-
 </style>
 
 <body>

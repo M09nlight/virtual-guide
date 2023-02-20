@@ -11,7 +11,7 @@
   <link href="css/style.css" rel="stylesheet">
   <link href="css/L.Control.Locate.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@lasights/dist/leaflet-routing-machine.css" />
 
 
 </head>
@@ -52,7 +52,7 @@
   </div>
 
   <!----------------------------------------------------------------------------------------------Vitebsk--->
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/1_.jpg" alt="">
     </div> -->
@@ -65,7 +65,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/2_.jpg" alt="">
     </div> -->
@@ -78,7 +78,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/3_.jpg" alt="">
     </div> -->
@@ -92,7 +92,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/4_.jpg" alt="">
     </div> -->
@@ -105,7 +105,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/5_.jpg" alt="">
     </div> -->
@@ -119,7 +119,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/6_.jpg" alt="">
     </div> -->
@@ -132,7 +132,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/7_.jpg" alt="">
     </div> -->
@@ -145,7 +145,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/8_4.jpg" alt="">
     </div> -->
@@ -159,7 +159,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/9_3.jpg" alt="">
     </div> -->
@@ -173,7 +173,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/10_.png" alt="">
     </div> -->
@@ -187,7 +187,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/11_.jpg" alt="">
     </div> -->
@@ -200,7 +200,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/12_.jpg" alt="">
     </div> -->
@@ -214,7 +214,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/13_.jpg" alt="">
     </div> -->
@@ -228,7 +228,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/14_.jpg" alt="">
     </div> -->
@@ -242,7 +242,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/15_.jpg" alt="">
     </div> -->
@@ -256,7 +256,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/16_.jpg" alt="">
     </div> -->
@@ -273,7 +273,7 @@
 
   <!-- ------------------------------------------------------------------------- -->
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/17_.jpg" alt="">
     </div> -->
@@ -287,7 +287,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/18_.jpg" alt="">
     </div> -->
@@ -300,7 +300,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/19_.jpg" alt="">
     </div> -->
@@ -315,7 +315,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/20_.jpg" alt="">
     </div> -->
@@ -329,7 +329,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/21_.jpg" alt="">
     </div> -->
@@ -344,7 +344,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/22_.jpg" alt="">
     </div> -->
@@ -358,7 +358,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/23_.jpg" alt="">
     </div> -->
@@ -372,7 +372,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/24_.jpg" alt="">
     </div> -->
@@ -386,7 +386,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/25_.jpg" alt="">
     </div> -->
@@ -401,7 +401,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/26_.jpg" alt="">
     </div> -->
@@ -416,7 +416,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/27_.jpg" alt="">
     </div> -->
@@ -430,7 +430,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/28_.jpg" alt="">
     </div> -->
@@ -444,7 +444,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/29_.jpg" alt="">
     </div> -->
@@ -459,7 +459,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/30_.jpg" alt="">
     </div> -->
@@ -474,7 +474,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/31_.jpg" alt="">
     </div> -->
@@ -489,7 +489,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/32_.jpg" alt="">
     </div> -->
@@ -507,7 +507,7 @@
 
   <!-- ------------------------------------>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/33_.jpg" alt="">
     </div> -->
@@ -522,7 +522,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/34_.jpg" alt="">
     </div> -->
@@ -537,7 +537,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/35_.jpg" alt="">
     </div> -->
@@ -552,7 +552,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/36_.jpg" alt="">
     </div> -->
@@ -571,7 +571,7 @@
 
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/37_.jpg" alt="">
     </div> -->
@@ -586,7 +586,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/38_.jpg" alt="">
     </div> -->
@@ -600,7 +600,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/39_.jpg" alt="">
     </div> -->
@@ -615,7 +615,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/40_.jpg" alt="">
     </div> -->
@@ -629,7 +629,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/41_.jpg" alt="">
     </div> -->
@@ -644,7 +644,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/42_.jpg" alt="">
     </div> -->
@@ -658,7 +658,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/43_.jpg" alt="">
     </div> -->
@@ -674,7 +674,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/44_.jpg" alt="">
     </div> -->
@@ -687,7 +687,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/45_.jpg" alt="">
     </div> -->
@@ -701,7 +701,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/46_.jpg" alt="">
     </div> -->
@@ -715,7 +715,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/47_.jpg" alt="">
     </div> -->
@@ -728,7 +728,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/48_.jpg" alt="">
     </div> -->
@@ -743,7 +743,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/49_.jpg" alt="">
     </div> -->
@@ -758,7 +758,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/50_.jpg" alt="">
     </div> -->
@@ -772,7 +772,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/51_.jpg" alt="">
     </div> -->
@@ -786,7 +786,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/52_.jpg" alt="">
     </div> -->
@@ -801,7 +801,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/53_.jpg" alt="">
     </div> -->
@@ -817,7 +817,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/54_.jpg" alt="">
     </div> -->
@@ -831,7 +831,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/55_.jpg" alt="">
     </div> -->
@@ -846,7 +846,7 @@
   </div>
 
   <!-- Stop here -->
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/56_.jpg" alt="">
     </div> -->
@@ -860,7 +860,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/57_.jpg" alt="">
     </div> -->
@@ -874,7 +874,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/58_.jpg" alt="">
     </div> -->
@@ -888,7 +888,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/59_.jpg" alt="">
     </div> -->
@@ -903,7 +903,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/60_.jpg" alt="">
     </div> -->
@@ -918,7 +918,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/61_.jpg" alt="">
     </div> -->
@@ -933,7 +933,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/62_.jpg" alt="">
     </div> -->
@@ -948,7 +948,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/63_.jpg" alt="">
     </div> -->
@@ -962,7 +962,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/64_.jpg" alt="">
     </div> -->
@@ -976,7 +976,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/79_.jpg" alt="">
     </div> -->
@@ -990,7 +990,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/66_.jpg" alt="">
     </div> -->
@@ -1004,7 +1004,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/67_.jpg" alt="">
     </div> -->
@@ -1018,7 +1018,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/68_.jpg" alt="">
     </div> -->
@@ -1032,7 +1032,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/69_.jpg" alt="">
     </div> -->
@@ -1047,7 +1047,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/70_.jpg" alt="">
     </div> -->
@@ -1061,7 +1061,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/71_.jpg" alt="">
     </div> -->
@@ -1075,7 +1075,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/72_.jpg" alt="">
     </div> -->
@@ -1090,7 +1090,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/73_.jpg" alt="">
     </div> -->
@@ -1103,7 +1103,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/74_.jpg" alt="">
     </div> -->
@@ -1117,7 +1117,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/75_.jpg" alt="">
     </div> -->
@@ -1130,7 +1130,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/76_.jpg" alt="">
     </div> -->
@@ -1144,7 +1144,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/77_.jpg" alt="">
     </div> -->
@@ -1159,7 +1159,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/vitebsk/78_.jpg" alt="">
     </div> -->
@@ -1176,7 +1176,7 @@
   <!----------------------------------------------------------------------------------------------Brest--->
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/1_.jpg" alt="">
     </div> -->
@@ -1191,7 +1191,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/2_.jpg" alt="">
     </div> -->
@@ -1205,7 +1205,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/3_.jpg" alt="">
     </div> -->
@@ -1219,7 +1219,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/4_.jpg" alt="">
     </div> -->
@@ -1232,7 +1232,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/5_.jpg" alt="">
     </div> -->
@@ -1245,7 +1245,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/6_.jpg" alt="">
     </div> -->
@@ -1259,7 +1259,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/7_.jpg" alt="">
     </div> -->
@@ -1273,7 +1273,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/8_.jpg" alt="">
     </div> -->
@@ -1288,7 +1288,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/9_.jpg" alt="">
     </div> -->
@@ -1302,7 +1302,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/10_.jpg" alt="">
     </div> -->
@@ -1317,7 +1317,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/11_.jpg" alt="">
     </div> -->
@@ -1331,7 +1331,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/12_.jpg" alt="">
     </div> -->
@@ -1344,7 +1344,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/13_.jpg" alt="">
     </div> -->
@@ -1358,7 +1358,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/14_.jpg" alt="">
     </div> -->
@@ -1372,7 +1372,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/15_.jpg" alt="">
     </div> -->
@@ -1386,7 +1386,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/16_.jpg" alt="">
     </div> -->
@@ -1402,7 +1402,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/17_.jpg" alt="">
     </div> -->
@@ -1416,7 +1416,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/18_.jpg" alt="">
     </div> -->
@@ -1430,7 +1430,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/19_.jpg" alt="">
     </div> -->
@@ -1443,7 +1443,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/20_.jpg" alt="">
     </div> -->
@@ -1459,7 +1459,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/21_.jpg" alt="">
     </div> -->
@@ -1473,7 +1473,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/22_.jpg" alt="">
     </div> -->
@@ -1488,7 +1488,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/23_.jpg" alt="">
     </div> -->
@@ -1503,7 +1503,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/24_.jpg" alt="">
     </div> -->
@@ -1517,7 +1517,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/25_.jpg" alt="">
     </div> -->
@@ -1532,7 +1532,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/26_.jpg" alt="">
     </div> -->
@@ -1546,7 +1546,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/27_.jpg" alt="">
     </div> -->
@@ -1560,7 +1560,7 @@
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/28_.jpg" alt="">
     </div> -->
@@ -1573,7 +1573,7 @@
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/29_.jpg" alt="">
     </div> -->
@@ -1587,7 +1587,7 @@
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/30_.jpg" alt="">
     </div> -->
@@ -1601,7 +1601,7 @@
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/31_.jpg" alt="">
     </div> -->
@@ -1614,7 +1614,7 @@
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/32_.jpg" alt="">
     </div> -->
@@ -1627,7 +1627,7 @@
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/brest/33_.jpg" alt="">
     </div> -->
@@ -1646,7 +1646,7 @@
 
   <!---------------------------------------------------------------------------------------------------------- Gomel -->
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/1_.jpg" alt="">
     </div> -->
@@ -1660,7 +1660,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/2_.jpg" alt="">
     </div> -->
@@ -1674,7 +1674,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/3_.jpg" alt="">
     </div> -->
@@ -1688,7 +1688,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/4_.jpg" alt="">
     </div> -->
@@ -1702,7 +1702,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/5_.jpg" alt="">
     </div> -->
@@ -1717,7 +1717,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/6_.jpg" alt="">
     </div> -->
@@ -1732,7 +1732,7 @@
   </div>
   <!-- part 1 ended -->
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/7_.jpg" alt="">
     </div> -->
@@ -1747,7 +1747,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/8_.jpg" alt="">
     </div> -->
@@ -1762,7 +1762,7 @@
   </div>
   <!-- part 2 ended -->
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/9_.jpg" alt="">
     </div> -->
@@ -1778,7 +1778,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/10_.jpg" alt="">
     </div> -->
@@ -1790,7 +1790,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/11_.jpg" alt="">
     </div> -->
@@ -1802,7 +1802,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/12_.jpg" alt="">
     </div> -->
@@ -1814,7 +1814,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/13_.jpg" alt="">
     </div> -->
@@ -1826,7 +1826,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/14_.jpg" alt="">
     </div> -->
@@ -1838,7 +1838,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/15_.jpg" alt="">
     </div> -->
@@ -1851,7 +1851,7 @@
   <!-- part 3 ended -->
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/16_.jpg" alt="">
     </div> -->
@@ -1863,7 +1863,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/16_2.jpg" alt="">
     </div> -->
@@ -1876,7 +1876,7 @@
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/17_.jpg" alt="">
     </div> -->
@@ -1888,7 +1888,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/18_.jpg" alt="">
     </div> -->
@@ -1900,19 +1900,19 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/19_.jpg" alt="">
     </div> -->
     <div class="content">
       <h3>Round Lake</h3>
-      <p>There is a lake 20 km southwest of Gomel, which has such a regular round shape that it has given rise to a whole wave of theories. According to one of them, during the Second World War, a nuclear weapon was allegedly tested here, according to another, this reservoir was formed as a result of a meteorite fall.</p>
+      <p>There is a lake 20 km southwest of Gomel, which has such a regular round shape that it has given rise to a whole wave of theories. According to one of them, during the Second World War, a nuclear weapon was allegedly sightsed here, according to another, this reservoir was formed as a result of a meteorite fall.</p>
       <a target="_blank" href="sights/gomel/Round Lake.php">read more <i class="fas fa-angle-right"></i></a>
     </div>
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/20_.jpg" alt="">
     </div> -->
@@ -1924,7 +1924,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/21_.jpg" alt="">
     </div> -->
@@ -1936,7 +1936,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/22_.jpg" alt="">
     </div> -->
@@ -1946,7 +1946,7 @@
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/23_.jpg" alt="">
     </div> -->
@@ -1957,7 +1957,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/24_.jpg" alt="">
     </div> -->
@@ -1969,7 +1969,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/25_.jpg" alt="">
     </div> -->
@@ -1981,7 +1981,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/26_.jpg" alt="">
     </div> -->
@@ -1993,7 +1993,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/27_.jpg" alt="">
     </div> -->
@@ -2005,7 +2005,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/28_.jpg" alt="">
     </div> -->
@@ -2017,7 +2017,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/29_.jpg" alt="">
     </div> -->
@@ -2029,7 +2029,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/30_.jpg" alt="">
     </div> -->
@@ -2041,7 +2041,7 @@
 
   </div>
 <!--elsk end -->
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/31_.jpg" alt="">
     </div> -->
@@ -2053,7 +2053,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/32_.jpg" alt="">
     </div> -->
@@ -2065,7 +2065,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/33_.jpg" alt="">
     </div> -->
@@ -2077,7 +2077,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/34_.jpg" alt="">
     </div> -->
@@ -2089,7 +2089,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/35_.jpg" alt="">
     </div> -->
@@ -2101,7 +2101,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/36_.jpg" alt="">
     </div> -->
@@ -2113,7 +2113,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/37_.jpg" alt="">
     </div> -->
@@ -2124,7 +2124,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/38_.jpg" alt="">
     </div> -->
@@ -2136,7 +2136,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/39_.jpg" alt="">
     </div> -->
@@ -2159,7 +2159,7 @@
 
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/40_.jpg" alt="">
     </div> -->
@@ -2171,7 +2171,7 @@
 
   </div>
 
- <div class="box_ test" hidden>
+ <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/41_.jpg" alt="">
     </div> -->
@@ -2183,7 +2183,7 @@
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/42_.jpg" alt="">
     </div> -->
@@ -2195,7 +2195,7 @@
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/43_.jpg" alt="">
     </div> -->
@@ -2209,7 +2209,7 @@
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/44_.jpg" alt="">
     </div> -->
@@ -2223,7 +2223,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/45_.jpg" alt="">
     </div> -->
@@ -2235,7 +2235,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/46_.jpg" alt="">
     </div> -->
@@ -2247,7 +2247,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/47_.jpg" alt="">
     </div> -->
@@ -2259,7 +2259,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/48_.jpg" alt="">
     </div> -->
@@ -2271,7 +2271,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/49_.jpg" alt="">
     </div> -->
@@ -2283,7 +2283,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/50_.jpg" alt="">
     </div> -->
@@ -2295,7 +2295,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/51_.jpg" alt="">
     </div> -->
@@ -2307,7 +2307,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/52_.jpg" alt="">
     </div> -->
@@ -2319,7 +2319,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/53_.jpg" alt="">
     </div> -->
@@ -2331,7 +2331,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/54_.jpg" alt="">
     </div> -->
@@ -2343,7 +2343,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/55_.jpg" alt="">
     </div> -->
@@ -2355,7 +2355,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/56_.jpg" alt="">
     </div> -->
@@ -2367,7 +2367,7 @@ Republican landscape reserve "Smychok"
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/57_.jpg" alt="">
     </div> -->
@@ -2381,7 +2381,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/58_.jpg" alt="">
     </div> -->
@@ -2392,7 +2392,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/59_.jpg" alt="">
     </div> -->
@@ -2403,7 +2403,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/60_.jpg" alt="">
     </div> -->
@@ -2414,7 +2414,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/61_.jpg" alt="">
     </div> -->
@@ -2426,7 +2426,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/62_.jpg" alt="">
     </div> -->
@@ -2438,7 +2438,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/63_.jpg" alt="">
     </div> -->
@@ -2450,7 +2450,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/64_.jpg" alt="">
     </div> -->
@@ -2462,7 +2462,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/65_.jpg" alt="">
     </div> -->
@@ -2474,7 +2474,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/66_.jpg" alt="">
     </div> -->
@@ -2486,7 +2486,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/67_.jpg" alt="">
     </div> -->
@@ -2498,7 +2498,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/68_.jpg" alt="">
     </div> -->
@@ -2510,7 +2510,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/69_.jpg" alt="">
     </div> -->
@@ -2522,7 +2522,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/70_.jpg" alt="">
     </div> -->
@@ -2534,7 +2534,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/71_.jpg" alt="">
     </div> -->
@@ -2546,7 +2546,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/72_.jpg" alt="">
     </div> -->
@@ -2558,7 +2558,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/73_.jpg" alt="">
     </div> -->
@@ -2570,7 +2570,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/74_.jpg" alt="">
     </div> -->
@@ -2582,7 +2582,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/75_.jpg" alt="">
     </div> -->
@@ -2594,7 +2594,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/76_.jpg" alt="">
     </div> -->
@@ -2610,7 +2610,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/77_.jpg" alt="">
     </div> -->
@@ -2622,7 +2622,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/78_.jpg" alt="">
     </div> -->
@@ -2634,7 +2634,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/79_.jpg" alt="">
     </div> -->
@@ -2646,7 +2646,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/80_.jpg" alt="">
     </div> -->
@@ -2658,7 +2658,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/81_.jpg" alt="">
     </div> -->
@@ -2687,7 +2687,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/82_.jpg" alt="">
     </div> -->
@@ -2699,7 +2699,7 @@ Church of St. Nicholas the Wonderworker in Korma
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/83_.jpg" alt="">
     </div> -->
@@ -2712,7 +2712,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/84_.jpg" alt="">
     </div> -->
@@ -2724,7 +2724,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/85_.jpg" alt="">
     </div> -->
@@ -2736,7 +2736,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/86_.jpg" alt="">
     </div> -->
@@ -2748,7 +2748,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/87_.jpg" alt="">
     </div> -->
@@ -2760,7 +2760,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/gomel/88_.jpg" alt="">
     </div> -->
@@ -2772,7 +2772,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <!-- <div class="box_ test" hidden>
+  <!-- <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/89_.jpg" alt="">
     </div>
@@ -2784,7 +2784,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/90_.jpg" alt="">
     </div>
@@ -2796,7 +2796,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/91_.jpg" alt="">
     </div>
@@ -2808,7 +2808,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/92_.jpg" alt="">
     </div>
@@ -2820,7 +2820,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/93_.jpg" alt="">
     </div>
@@ -2832,7 +2832,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/94_.jpg" alt="">
     </div>
@@ -2844,7 +2844,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/95_.jpg" alt="">
     </div>
@@ -2856,7 +2856,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/96_.jpg" alt="">
     </div>
@@ -2868,7 +2868,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/97_.jpg" alt="">
     </div>
@@ -2880,7 +2880,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/98_.jpg" alt="">
     </div>
@@ -2892,7 +2892,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/99_.jpg" alt="">
     </div>
@@ -2904,7 +2904,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div> -->
   
-  <!-- <div class="box_ test" hidden>
+  <!-- <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/100_.jpg" alt="">
     </div>
@@ -2915,7 +2915,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/101_.jpg" alt="">
     </div>
@@ -2926,7 +2926,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/102_.jpg" alt="">
     </div>
@@ -2938,7 +2938,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/103_.jpg" alt="">
     </div>
@@ -2950,7 +2950,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/104_.jpg" alt="">
     </div>
@@ -2980,7 +2980,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/105_.jpg" alt="">
     </div>
@@ -2992,7 +2992,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/106_.jpg" alt="">
     </div>
@@ -3004,7 +3004,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/107_.jpg" alt="">
     </div>
@@ -3016,7 +3016,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/108_.jpg" alt="">
     </div>
@@ -3027,7 +3027,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/109_.jpg" alt="">
     </div>
@@ -3039,7 +3039,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/110_.jpg" alt="">
     </div>
@@ -3053,7 +3053,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
   
 
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/112_.jpg" alt="">
     </div>
@@ -3065,7 +3065,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/113_.jpg" alt="">
     </div>
@@ -3077,7 +3077,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/114_.jpg" alt="">
     </div>
@@ -3089,7 +3089,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/115_.jpg" alt="">
     </div>
@@ -3101,7 +3101,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/116_.jpg" alt="">
     </div>
@@ -3113,7 +3113,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/118_.png" alt="">
     </div>
@@ -3125,7 +3125,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/119_.jpg" alt="">
     </div>
@@ -3137,7 +3137,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/120_.jpg" alt="">
     </div>
@@ -3148,7 +3148,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/gomel/121_.jpg" alt="">
     </div>
@@ -3180,7 +3180,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   <!-- grodno -------------------------------------------------------------------->
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/1_.jpg" alt="">
     </div> -->
@@ -3192,7 +3192,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/2_.jpg" alt="">
     </div> -->
@@ -3204,7 +3204,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/3_.jpg" alt="">
     </div> -->
@@ -3215,7 +3215,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/4_.jpg" alt="">
     </div> -->
@@ -3227,7 +3227,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/5_.jpg" alt="">
     </div> -->
@@ -3239,7 +3239,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/6_.jpg" alt="">
     </div> -->
@@ -3251,7 +3251,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/7_.jpg" alt="">
     </div> -->
@@ -3263,7 +3263,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/8_.jpg" alt="">
     </div> -->
@@ -3275,7 +3275,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/9_.jpg" alt="">
     </div> -->
@@ -3287,19 +3287,19 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/10_.jpg" alt="">
     </div> -->
     <div class="content">
       <h3>The most unusual house in Belarus.</h3>
-      <p>The brightest attraction of the Voronovsky district is the house-fortress in the village of Gaytyushniki. </p>
+      <p>The brighsights attraction of the Voronovsky district is the house-fortress in the village of Gaytyushniki. </p>
       <a target="_blank" href="sights/grodno/The most unusual house in Belarus..php">read more <i class="fas fa-angle-right"></i></a>
     </div>
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/11_.jpg" alt="">
     </div> -->
@@ -3311,7 +3311,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/12_.jpg" alt="">
     </div> -->
@@ -3323,7 +3323,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/13_.jpg" alt="">
     </div> -->
@@ -3335,7 +3335,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/14_.jpg" alt="">
     </div> -->
@@ -3347,7 +3347,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/15_.jpg" alt="">
     </div> -->
@@ -3359,7 +3359,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/16_.jpg" alt="">
     </div> -->
@@ -3371,7 +3371,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/17_.jpg" alt="">
     </div> -->
@@ -3383,7 +3383,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/18_.jpg" alt="">
     </div> -->
@@ -3395,7 +3395,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/19_.jpg" alt="">
     </div> -->
@@ -3407,7 +3407,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/20_.jpg" alt="">
     </div> -->
@@ -3419,7 +3419,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/21_.jpg" alt="">
     </div> -->
@@ -3431,7 +3431,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/22_.jpg" alt="">
     </div> -->
@@ -3443,7 +3443,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/23_.jpg" alt="">
     </div> -->
@@ -3455,7 +3455,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/24_.jpg" alt="">
     </div> -->
@@ -3467,7 +3467,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/25_.jpg" alt="">
     </div> -->
@@ -3478,7 +3478,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/26_.jpg" alt="">
     </div> -->
@@ -3490,7 +3490,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/27_.jpg" alt="">
     </div> -->
@@ -3502,7 +3502,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/28_.jpg" alt="">
     </div> -->
@@ -3514,7 +3514,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/29_.jpg" alt="">
     </div> -->
@@ -3526,7 +3526,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/30_.jpg" alt="">
     </div> -->
@@ -3538,7 +3538,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/31_.jpg" alt="">
     </div> -->
@@ -3550,7 +3550,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/32_.jpg" alt="">
     </div> -->
@@ -3562,7 +3562,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/33_.jpg" alt="">
     </div> -->
@@ -3574,7 +3574,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/34_.jpg" alt="">
     </div> -->
@@ -3586,7 +3586,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/35_.jpg" alt="">
     </div> -->
@@ -3598,7 +3598,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/36_.jpg" alt="">
     </div> -->
@@ -3610,7 +3610,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/37_.jpg" alt="">
     </div> -->
@@ -3622,7 +3622,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/38_.jpg" alt="">
     </div> -->
@@ -3634,7 +3634,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/39_.jpg" alt="">
     </div> -->
@@ -3646,7 +3646,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/40_.jpg" alt="">
     </div> -->
@@ -3659,7 +3659,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/41_.jpg" alt="">
     </div> -->
@@ -3671,7 +3671,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/42_.jpg" alt="">
     </div> -->
@@ -3683,7 +3683,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/43_.jpg" alt="">
     </div> -->
@@ -3695,7 +3695,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/44_.jpg" alt="">
     </div> -->
@@ -3707,7 +3707,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/45_.jpg" alt="">
     </div> -->
@@ -3719,7 +3719,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/46_.jpg" alt="">
     </div> -->
@@ -3731,7 +3731,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/47_.jpg" alt="">
     </div> -->
@@ -3742,7 +3742,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/48_.jpg" alt="">
     </div> -->
@@ -3754,7 +3754,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/49_.jpg" alt="">
     </div> -->
@@ -3766,7 +3766,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/50_.jpg" alt="">
     </div> -->
@@ -3778,7 +3778,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/51_.jpg" alt="">
     </div> -->
@@ -3790,7 +3790,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
       
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/52_.jpg" alt="">
     </div> -->
@@ -3802,7 +3802,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
       
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/53_.jpg" alt="">
     </div> -->
@@ -3814,7 +3814,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
       
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/54_.jpg" alt="">
     </div> -->
@@ -3826,7 +3826,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
       
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/55_.jpg" alt="">
     </div> -->
@@ -3838,7 +3838,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
       
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/56_.jpg" alt="">
     </div> -->
@@ -3850,7 +3850,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
       
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/57_.jpg" alt="">
     </div> -->
@@ -3862,7 +3862,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
       
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/58_.jpg" alt="">
     </div> -->
@@ -3874,7 +3874,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
       
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/59_.jpg" alt="">
     </div> -->
@@ -3886,7 +3886,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
       
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/60_.jpg" alt="">
     </div> -->
@@ -3899,7 +3899,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
   </div>
   
       
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/61_.jpg" alt="">
     </div> -->
@@ -3922,7 +3922,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
 
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/62_.jpg" alt="">
     </div> -->
@@ -3934,7 +3934,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/63_.jpg" alt="">
     </div> -->
@@ -3946,7 +3946,7 @@ Church of St. Michael the Archangel is a modern interpretation of the Gothic. Th
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/64_.jpg" alt="">
     </div> -->
@@ -3960,7 +3960,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/65_.jpg" alt="">
     </div> -->
@@ -3972,7 +3972,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/66_.jpg" alt="">
     </div> -->
@@ -3987,7 +3987,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/67_.jpg" alt="">
     </div> -->
@@ -4000,7 +4000,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/68_.jpg" alt="">
     </div> -->
@@ -4012,7 +4012,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/grodno/69_.jpg" alt="">
     </div> -->
@@ -4024,7 +4024,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <!-- <div class="box_ test" hidden>
+  <!-- <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/70_.jpg" alt="">
     </div>
@@ -4037,7 +4037,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/71_.jpg" alt="">
     </div>
@@ -4049,7 +4049,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/72_.jpg" alt="">
     </div>
@@ -4061,7 +4061,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/73_.jpg" alt="">
     </div>
@@ -4073,7 +4073,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/74_.jpg" alt="">
     </div>
@@ -4084,7 +4084,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/75_.jpg" alt="">
     </div>
@@ -4096,7 +4096,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/76_.jpg" alt="">
     </div>
@@ -4108,7 +4108,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/77_.jpg" alt="">
     </div>
@@ -4120,7 +4120,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/78_.jpg" alt="">
     </div>
@@ -4132,7 +4132,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/79_.jpg" alt="">
     </div>
@@ -4144,7 +4144,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/80_.jpg" alt="">
     </div>
@@ -4156,7 +4156,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/81_.jpg" alt="">
     </div>
@@ -4168,7 +4168,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/82_.jpg" alt="">
     </div>
@@ -4180,7 +4180,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/83_.jpg" alt="">
     </div>
@@ -4192,7 +4192,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/84_.jpg" alt="">
     </div>
@@ -4204,7 +4204,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/grodno/85_.jpg" alt="">
     </div>
@@ -4236,7 +4236,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/1_.jpg" alt="">
     </div> -->
@@ -4248,7 +4248,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/2_.jpg" alt="">
     </div> -->
@@ -4261,7 +4261,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/3_.jpg" alt="">
     </div> -->
@@ -4273,7 +4273,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/4_.jpg" alt="">
     </div> -->
@@ -4286,7 +4286,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/5_.jpg" alt="">
     </div> -->
@@ -4299,7 +4299,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/6_.jpg" alt="">
     </div> -->
@@ -4312,7 +4312,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/7_.jpg" alt="">
     </div> -->
@@ -4325,7 +4325,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/8_.jpg" alt="">
     </div> -->
@@ -4338,7 +4338,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/9_.jpg" alt="">
     </div> -->
@@ -4351,7 +4351,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/10_.jpg" alt="">
     </div> -->
@@ -4364,7 +4364,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/11_.jpg" alt="">
     </div> -->
@@ -4377,7 +4377,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/12_.jpg" alt="">
     </div> -->
@@ -4390,7 +4390,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/13_.jpg" alt="">
     </div> -->
@@ -4403,7 +4403,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/14_.jpg" alt="">
     </div> -->
@@ -4416,7 +4416,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/15_.jpg" alt="">
     </div> -->
@@ -4429,7 +4429,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/16_.jpg" alt="">
     </div> -->
@@ -4442,7 +4442,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/17_.jpg" alt="">
     </div> -->
@@ -4455,7 +4455,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/18_.jpg" alt="">
     </div> -->
@@ -4468,7 +4468,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
   
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/19_.jpg" alt="">
     </div> -->
@@ -4491,7 +4491,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/1_.jpg" alt="">
     </div> -->
@@ -4503,7 +4503,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/2_.jpg" alt="">
     </div> -->
@@ -4515,7 +4515,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/3_.jpg" alt="">
     </div> -->
@@ -4527,7 +4527,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/4_.jpg" alt="">
     </div> -->
@@ -4539,7 +4539,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/5_.jpg" alt="">
     </div> -->
@@ -4551,7 +4551,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/6_.jpg" alt="">
     </div> -->
@@ -4562,7 +4562,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/7_.jpg" alt="">
     </div> -->
@@ -4574,7 +4574,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/8_.jpg" alt="">
     </div> -->
@@ -4586,7 +4586,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/9_.jpg" alt="">
     </div> -->
@@ -4598,7 +4598,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/10_.jpg" alt="">
     </div> -->
@@ -4610,7 +4610,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/11_.jpg" alt="">
     </div> -->
@@ -4646,7 +4646,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   <!-- Minsk region start-------------------------------------------------------------------- -->
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/20_.jpg" alt="">
     </div> -->
@@ -4659,7 +4659,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
 
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/21_.jpg" alt="">
     </div> -->
@@ -4671,7 +4671,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/22_.jpg" alt="">
     </div> -->
@@ -4682,7 +4682,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/23_.jpg" alt="">
     </div> -->
@@ -4693,7 +4693,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/24_.jpg" alt="">
     </div> -->
@@ -4704,7 +4704,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/25_.jpg" alt="">
     </div> -->
@@ -4715,7 +4715,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/26_.jpg" alt="">
     </div> -->
@@ -4726,7 +4726,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/27_.jpg" alt="">
     </div> -->
@@ -4737,7 +4737,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/28_.jpg" alt="">
     </div> -->
@@ -4750,7 +4750,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   </div>
    
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/30_.jpg" alt="">
     </div> -->
@@ -4761,7 +4761,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/31_.jpg" alt="">
     </div> -->
@@ -4772,7 +4772,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/32_.jpg" alt="">
     </div> -->
@@ -4783,7 +4783,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/33_.jpg" alt="">
     </div> -->
@@ -4795,7 +4795,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/34_.jpg" alt="">
     </div> -->
@@ -4806,7 +4806,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/35_.jpg" alt="">
     </div> -->
@@ -4818,7 +4818,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/36_.jpg" alt="">
     </div> -->
@@ -4829,7 +4829,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/37_.jpg" alt="">
     </div> -->
@@ -4840,7 +4840,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/38_.jpg" alt="">
     </div> -->
@@ -4851,7 +4851,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/39_.jpg" alt="">
     </div> -->
@@ -4862,7 +4862,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/40_.jpg" alt="">
     </div> -->
@@ -4873,7 +4873,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/41_.jpg" alt="">
     </div> -->
@@ -4884,7 +4884,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/42_.jpg" alt="">
     </div> -->
@@ -4895,7 +4895,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
     </div>
 
   </div>
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/minsk/43_.jpg" alt="">
     </div> -->
@@ -4921,7 +4921,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
   
   <!-- Mogilev region start-------------------------------------------------------------------- -->
 
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/12_.jpg" alt="">
     </div> -->
@@ -4933,7 +4933,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
   
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/13_.jpg" alt="">
     </div> -->
@@ -4945,7 +4945,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/14_.jpg" alt="">
     </div> -->
@@ -4957,7 +4957,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/15_.jpg" alt="">
     </div> -->
@@ -4969,7 +4969,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/16_.jpg" alt="">
     </div> -->
@@ -4981,7 +4981,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/17_.jpg" alt="">
     </div> -->
@@ -4993,7 +4993,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/18_.jpg" alt="">
     </div> -->
@@ -5005,7 +5005,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/19_.jpg" alt="">
     </div> -->
@@ -5017,7 +5017,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/20_.jpg" alt="">
     </div> -->
@@ -5029,7 +5029,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/21_.jpg" alt="">
     </div> -->
@@ -5041,7 +5041,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/22_.jpg" alt="">
     </div> -->
@@ -5053,7 +5053,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/23_.jpg" alt="">
     </div> -->
@@ -5065,7 +5065,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/24_.jpg" alt="">
     </div> -->
@@ -5077,7 +5077,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/25_.jpg" alt="">
     </div> -->
@@ -5089,7 +5089,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/26_.jpg" alt="">
     </div> -->
@@ -5101,7 +5101,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/27_.jpg" alt="">
     </div> -->
@@ -5113,7 +5113,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/28_.jpg" alt="">
     </div> -->
@@ -5125,7 +5125,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/29_.jpg" alt="">
     </div> -->
@@ -5137,7 +5137,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/30_.jpg" alt="">
     </div> -->
@@ -5149,7 +5149,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/31_.jpg" alt="">
     </div> -->
@@ -5161,7 +5161,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/32_.jpg" alt="">
     </div> -->
@@ -5173,7 +5173,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/33_.jpg" alt="">
     </div> -->
@@ -5185,7 +5185,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/34_.jpg" alt="">
     </div> -->
@@ -5197,7 +5197,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/35_.jpg" alt="">
     </div> -->
@@ -5209,7 +5209,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/36_.jpg" alt="">
     </div> -->
@@ -5221,7 +5221,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/37_.jpg" alt="">
     </div> -->
@@ -5233,7 +5233,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/38_.jpg" alt="">
     </div> -->
@@ -5245,7 +5245,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/39_.jpg" alt="">
     </div> -->
@@ -5257,7 +5257,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <!-- <div class="image">
       <img src="images/mogilev/40_.jpg" alt="">
     </div> -->
@@ -5269,7 +5269,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 
   </div>
     
-  <div class="box_ test" hidden>
+  <div class="box_ sights" hidden>
     <div class="image">
       <img src="images/mogilev/41_.jpg" alt="">
     </div>
@@ -5299,7 +5299,7 @@ The five-domed composition of the Church of St. Nicholas in the village of Dubno
 <script src="https://cdn.anychart.com/geodata/2.2.0/countries/belarus/belarus.js"></script>
 <script src="js/leaflet/belarus.js"></script>
   <script type="text/javascript" src="js/leaflet/leaflet.js"></script>
-  <script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
+  <script src="https://unpkg.com/leaflet-routing-machine@lasights/dist/leaflet-routing-machine.js"></script>
 
   <script src="js/leaflet/L.Control.Locate.js"></script>
   <script type="text/javascript" src="js/leaflet/customized-map.js"></script>
