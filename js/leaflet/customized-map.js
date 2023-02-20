@@ -75,6 +75,8 @@ var myIcon = L.icon({
 });
 
 let arrayLocations = [];
+
+//vitebsk
 arrayLocations[0] = [55.19082271420831, 30.183906060308352];
 arrayLocations[1] = [55.17020728931804, 30.083387912526057];
 arrayLocations[2] = [55.251381, 30.14268];
@@ -201,7 +203,7 @@ arrayLocations[108] = [52.08006, 23.65533];
 arrayLocations[109] = [53.61545, 25.86921];
 arrayLocations[110] = [52.10941, 25.3753];
 
-//Gomel
+//Gomel starts here
 
 arrayLocations[111] = [51.7934, 30.2766];
 arrayLocations[112] = [51.443, 30.5627];
@@ -301,40 +303,42 @@ arrayLocations[197] = [52.1245, 28.4995];
 arrayLocations[198] = [52.12490991713113, 28.495702701090845];
 arrayLocations[199] = [52.136245424960244, 28.502856608247242];
 
-arrayLocations[200] = [52.354119519092, 30.376828208921218];
-arrayLocations[201] = [52.3713, 30.3892];
-arrayLocations[202] = [52.3719, 30.3885];
-arrayLocations[203] = [52.3691, 30.3984];
-arrayLocations[204] = [52.368248230108364, 30.395420335509307];
-arrayLocations[205] = [52.353335653470765, 30.37830602686832];
-arrayLocations[206] = [52.372689173923646, 30.389300428836076];
-arrayLocations[207] = [52.371069679658305, 30.38748627116393];
-arrayLocations[208] = [53.0687, 30.0205];
-arrayLocations[209] = [53.1017, 29.7306];
+// arrayLocations[200] = [52.354119519092, 30.376828208921218];
+// arrayLocations[201] = [52.3713, 30.3892];
+// arrayLocations[202] = [52.3719, 30.3885];
+// arrayLocations[203] = [52.3691, 30.3984];
+// arrayLocations[204] = [52.368248230108364, 30.395420335509307];
+// arrayLocations[205] = [52.353335653470765, 30.37830602686832];
+// arrayLocations[206] = [52.372689173923646, 30.389300428836076];
+// arrayLocations[207] = [52.371069679658305, 30.38748627116393];
+// arrayLocations[208] = [53.0687, 30.0205];
+// arrayLocations[209] = [53.1017, 29.7306];
 
-arrayLocations[210] = [52.205779735607884, 30.5744221660863];
-arrayLocations[211] = [53.074, 30.0469];
-arrayLocations[212] = [53.0827, 30.0585];
-arrayLocations[213] = [53.0754, 30.0515];
-arrayLocations[214] = [53.1578, 30.4625];
-arrayLocations[215] = [53.08226172246998, 30.052096057672163];
-arrayLocations[216] = [52.6356, 29.7553];
-arrayLocations[217] = [52.6381, 29.716];
-arrayLocations[218] = [52.637, 29.7508];
-arrayLocations[219] = [52.62, 29.535];
+// arrayLocations[210] = [52.205779735607884, 30.5744221660863];
+// arrayLocations[211] = [53.074, 30.0469];
+// arrayLocations[212] = [53.0827, 30.0585];
+// arrayLocations[213] = [53.0754, 30.0515];
+// arrayLocations[214] = [53.1578, 30.4625];
+// arrayLocations[215] = [53.08226172246998, 30.052096057672163];
+// arrayLocations[216] = [52.6356, 29.7553];
+// arrayLocations[217] = [52.6381, 29.716];
+// arrayLocations[218] = [52.637, 29.7508];
+// arrayLocations[219] = [52.62, 29.535];
 
-arrayLocations[220] = [51.88401244230103, 29.96364524538151];
-arrayLocations[221] = [51.6492, 29.9833];
-arrayLocations[222] = [51.89563595216077, 29.92121123695049];
-arrayLocations[223] = [51.8814, 29.7926];
-arrayLocations[224] = [51.9358, 29.6601];
-arrayLocations[225] = [52.9194, 30.9161];
-arrayLocations[226] = [52.9167, 30.9151];
-arrayLocations[227] = [52.948379248522016, 30.66247191851856];
-arrayLocations[228] = [52.9182, 30.9206];
-arrayLocations[229] = [52.9184, 30.9191];
+// arrayLocations[220] = [51.88401244230103, 29.96364524538151];
+// arrayLocations[221] = [51.6492, 29.9833];
+// arrayLocations[222] = [51.89563595216077, 29.92121123695049];
+// arrayLocations[223] = [51.8814, 29.7926];
+// arrayLocations[224] = [51.9358, 29.6601];
+// arrayLocations[225] = [52.9194, 30.9161];
+// arrayLocations[226] = [52.9167, 30.9151];
+// arrayLocations[227] = [52.948379248522016, 30.66247191851856];
+// arrayLocations[228] = [52.9182, 30.9206];
+// arrayLocations[229] = [52.9184, 30.9191];
 
-arrayLocations[230] = [52.9235, 30.9145];
+// arrayLocations[230] = [52.9235, 30.9145];
+
+//grodno starts here
 arrayLocations[231] = [53.1961, 24.0142];
 arrayLocations[232] = [53.1906, 24.0155];
 arrayLocations[233] = [53.1928, 24.0193];
@@ -411,23 +415,25 @@ arrayLocations[297] = [53.5983, 25.8226];
 arrayLocations[298] = [54.6871, 26.1443];
 arrayLocations[299] = [54.80064, 25.8825];
 
-arrayLocations[300] = [54.8141, 26.1647];
-arrayLocations[301] = [54.2448, 26.0204];
-arrayLocations[302] = [54.4235, 25.9359];
-arrayLocations[303] = [54.42443828486486, 25.935757680976362];
-arrayLocations[304] = [53.8163, 24.5562];
-arrayLocations[305] = [52.94664482663413, 24.378837213491774];
-arrayLocations[306] = [52.9369, 24.3679];
-arrayLocations[307] = [53.0078, 25.3444];
-arrayLocations[308] = [53.0975, 25.3302];
-arrayLocations[309] = [53.09329, 25.3176];
+// arrayLocations[300] = [54.8141, 26.1647];
+// arrayLocations[301] = [54.2448, 26.0204];
+// arrayLocations[302] = [54.4235, 25.9359];
+// arrayLocations[303] = [54.42443828486486, 25.935757680976362];
+// arrayLocations[304] = [53.8163, 24.5562];
+// arrayLocations[305] = [52.94664482663413, 24.378837213491774];
+// arrayLocations[306] = [52.9369, 24.3679];
+// arrayLocations[307] = [53.0078, 25.3444];
+// arrayLocations[308] = [53.0975, 25.3302];
+// arrayLocations[309] = [53.09329, 25.3176];
 
-arrayLocations[310] = [54.3037, 26.2841];
-arrayLocations[311] = [54.4129, 26.5224];
-arrayLocations[312] = [54.51591, 26.17972];
-arrayLocations[313] = [53.92491368260921, 24.55910169162868];
-arrayLocations[314] = [53.691, 24.9997];
-arrayLocations[315] = [53.6652, 24.877];
+// arrayLocations[310] = [54.3037, 26.2841];
+// arrayLocations[311] = [54.4129, 26.5224];
+// arrayLocations[312] = [54.51591, 26.17972];
+// arrayLocations[313] = [53.92491368260921, 24.55910169162868];
+// arrayLocations[314] = [53.691, 24.9997];
+// arrayLocations[315] = [53.6652, 24.877];
+
+//minsk starts here
 arrayLocations[316] = [53.930215, 27.636122];
 arrayLocations[317] = [53.89650700318912, 27.54701640468202];
 arrayLocations[318] = [53.93142364151076, 27.646015690213293];
@@ -449,7 +455,9 @@ arrayLocations[331] = [53.828, 27.3385];
 arrayLocations[332] = [52.870741, 27.86477];
 arrayLocations[333] = [53.635077, 27.222096];
 arrayLocations[334] = [54.201105, 27.384912];
-arrayLocations[335] = [53.909712720117895, 30.343050235582048]; //mogilev starts here
+
+//mogilev starts here
+arrayLocations[335] = [53.909712720117895, 30.343050235582048]; 
 arrayLocations[336] = [53.894572, 30.331993];
 arrayLocations[337] = [53.89585726231228, 30.333947741356017];
 arrayLocations[338] = [53.89495560137954, 30.329574653967086];
@@ -504,7 +512,7 @@ arrayLocations[379] = [53.63614279567999, 30.48238749158669];
 
 arrayLocations[380] = [53.1394007084826, 29.22197105164922];
 arrayLocations[381] = [53.51829140781244, 30.25908912708588];
-arrayLocations[382] = [54.019701, 31.726780];
+arrayLocations[382] = [54.019701, 31.72678];
 arrayLocations[383] = [53.89472731843469, 30.332134088465324];
 arrayLocations[384] = [53.142962595093806, 29.224791105135942];
 arrayLocations[385] = [54.01984529684313, 31.725844151682455];
@@ -528,9 +536,8 @@ let arrayLocationsSorted = [];
 
 for (let index = 0; index < arrayLocations.length; index++) {
   if (arrayLocations[index] != undefined) {
-    arrayLocationsSorted.push(arrayLocations[index])
+    arrayLocationsSorted.push(arrayLocations[index]);
   }
-  
 }
 let test = document.getElementsByClassName("test");
 let elem = [];
@@ -539,10 +546,9 @@ let defaultElem = document.createElement("div");
 defaultElem.classList.add("test");
 defaultElem.setAttribute("hidden", "true");
 
-
 let step = 0;
 for (let index = 0; index < arrayLocationsSorted.length; index++) {
-    elem[index] = test[index];
+  elem[index] = test[index];
 }
 
 for (let index = 0; index < elem.length; index++) {
@@ -557,7 +563,10 @@ let checkbox = checkboxList;
 
 for (let i = 0; i < arrayLocationsSorted.length; i++) {
   if (arrayLocationsSorted[i] != undefined) {
-    marker[i] = L.marker(arrayLocationsSorted[i], { icon: myIcon, draggable: false });
+    marker[i] = L.marker(arrayLocationsSorted[i], {
+      icon: myIcon,
+      draggable: false,
+    });
 
     if (elem[i] != null) {
       popup[i] = marker[i].bindPopup(elem[i].innerHTML);
@@ -567,99 +576,116 @@ for (let i = 0; i < arrayLocationsSorted.length; i++) {
   //console.log(marker[i].toGeoJSON())
 }
 
-function changeRoute(e) {
-  let checkId = checkbox[0].id;
-  for (let j = 1; j < checkbox.length; j++) {
-    if (checkbox[j].id == checkId) {
-      if (checkbox[0].checked) {
-        checkbox[j].setAttribute("checked", "checked");
-        console.log(elem[j - 1].innerHTML);
-        map._popup.setContent(elem[j - 1].innerHTML);
-        onPopupOpen(marker[j - 1]);
-      } else {
-        checkbox[j].removeAttribute("checked");
-        map._popup.setContent(elem[j - 1].innerHTML);
-        onPopupClose(marker[j - 1]);
-      }
+for (let i = 0; i < marker.length; i++) {
+  marker[i].on("click", function (e) {
+    if (elem[i].firstChild.className != "image" && elem[i].firstChild.nextElementSibling.className != "image") {
+      let imgBlock = document.createElement("div");
+      imgBlock.setAttribute("class", "image");
+
+      let imgSrc = document.createElement("img");
+      imgSrc.setAttribute("src", imagesSrcArrSorted[i]);
+      imgBlock.appendChild(imgSrc);
+
+      elem[i].insertBefore(imgBlock, elem[i].firstChild);
+      popup[i] = marker[i].bindPopup(elem[i].innerHTML);
+      popup[i].addTo(map);
     }
-  }
+  });
 }
 
-function onPopupOpen(tempMarker) {
-  var newMarker = L.marker([
-    tempMarker._latlng.lat,
-    tempMarker._latlng.lng,
-  ]).addTo(map);
-  markersRoute.push(newMarker);
+// function changeRoute(e) {
+//   let checkId = checkbox[0].id;
+//   for (let j = 1; j < checkbox.length; j++) {
+//     if (checkbox[j].id == checkId) {
+//       if (checkbox[0].checked) {
+//         checkbox[j].setAttribute("checked", "checked");
+//         console.log(elem[j - 1].innerHTML);
+//         map._popup.setContent(elem[j - 1].innerHTML);
+//         onPopupOpen(marker[j - 1]);
+//       } else {
+//         checkbox[j].removeAttribute("checked");
+//         map._popup.setContent(elem[j - 1].innerHTML);
+//         onPopupClose(marker[j - 1]);
+//       }
+//     }
+//   }
+// }
 
-  let control = L.Routing.control({
-    waypoints: [
-      // L.latLng(lc._marker._latlng.lat, lc._marker._latlng.lng),
-      L.latLng(55.2004, 24.2),
-      L.latLng(tempMarker._latlng.lat, tempMarker._latlng.lng),
-    ],
-  })
-    .on("routesfound", function (e) {
-      var routes = e.routes;
-      console.log(routes);
+// function onPopupOpen(tempMarker) {
+//   var newMarker = L.marker([
+//     tempMarker._latlng.lat,
+//     tempMarker._latlng.lng,
+//   ]).addTo(map);
+//   markersRoute.push(newMarker);
 
-      let routeIcon = L.icon({
-        iconUrl: "images/car.png",
-        iconSize: [70, 70],
-      });
-      let route = L.marker([28.238, 83.9956], { icon: routeIcon }).addTo(map);
+//   let control = L.Routing.control({
+//     waypoints: [
+//       // L.latLng(lc._marker._latlng.lat, lc._marker._latlng.lng),
+//       L.latLng(55.2004, 24.2),
+//       L.latLng(tempMarker._latlng.lat, tempMarker._latlng.lng),
+//     ],
+//   })
+//     .on("routesfound", function (e) {
+//       var routes = e.routes;
+//       console.log(routes);
 
-      console.log(tempMarker);
-      console.log(e);
-      e.routes[0].coordinates.forEach(function (coord, index) {
-        setTimeout(function () {
-          route.setLatLng([coord.lat, coord.lng]);
-        }, 100 * index);
-      });
-    })
-    .addTo(map)
-    .on("waypointschanged", function (e) {
-      let newWaypoints = e.waypoints;
-      for (let i = 1; i < newWaypoints.length - 1; i++) {}
-      console.log("waypoint changed");
-      // routingControl[0].setWaypoints([
-      //     L.latLng(12, 12),
-      //     L.latLng(22, 22)
-      //   ]);
-    });
-  routingControl.push(control);
-}
+//       let routeIcon = L.icon({
+//         iconUrl: "images/car.png",
+//         iconSize: [70, 70],
+//       });
+//       let route = L.marker([28.238, 83.9956], { icon: routeIcon }).addTo(map);
 
-function onPopupClose(endMarker) {
-  for (let i = 0; i < routingControl.length; i++) {
-    let lastPoint = routingControl[i].getWaypoints().length - 1;
-    if (
-      JSON.stringify(routingControl[i].getWaypoints()[lastPoint].latLng) ===
-      JSON.stringify(endMarker._latlng)
-    ) {
-      map.removeControl(routingControl[i]);
-    }
-  }
+//       console.log(tempMarker);
+//       console.log(e);
+//       e.routes[0].coordinates.forEach(function (coord, index) {
+//         setTimeout(function () {
+//           route.setLatLng([coord.lat, coord.lng]);
+//         }, 100 * index);
+//       });
+//     })
+//     .addTo(map)
+//     .on("waypointschanged", function (e) {
+//       let newWaypoints = e.waypoints;
+//       for (let i = 1; i < newWaypoints.length - 1; i++) {}
+//       console.log("waypoint changed");
+//       // routingControl[0].setWaypoints([
+//       //     L.latLng(12, 12),
+//       //     L.latLng(22, 22)
+//       //   ]);
+//     });
+//   routingControl.push(control);
+// }
 
-  for (let i = 0; i < markersRoute.length; i++) {
-    if (
-      JSON.stringify(markersRoute[i]._latlng) ===
-      JSON.stringify(endMarker._latlng)
-    ) {
-      map.removeLayer(markersRoute[i]);
-    }
-  }
-}
+// function onPopupClose(endMarker) {
+//   for (let i = 0; i < routingControl.length; i++) {
+//     let lastPoint = routingControl[i].getWaypoints().length - 1;
+//     if (
+//       JSON.stringify(routingControl[i].getWaypoints()[lastPoint].latLng) ===
+//       JSON.stringify(endMarker._latlng)
+//     ) {
+//       map.removeControl(routingControl[i]);
+//     }
+//   }
 
-function clearAll() {
-  for (let i = 0; i < routingControl.length; i++) {
-    map.removeControl(routingControl[i]);
-  }
-  routingControl = [];
-  for (let i = 0; i < markersRoute.length; i++) {
-    map.removeLayer(f[i]);
-  }
-}
+//   for (let i = 0; i < markersRoute.length; i++) {
+//     if (
+//       JSON.stringify(markersRoute[i]._latlng) ===
+//       JSON.stringify(endMarker._latlng)
+//     ) {
+//       map.removeLayer(markersRoute[i]);
+//     }
+//   }
+// }
+
+// function clearAll() {
+//   for (let i = 0; i < routingControl.length; i++) {
+//     map.removeControl(routingControl[i]);
+//   }
+//   routingControl = [];
+//   for (let i = 0; i < markersRoute.length; i++) {
+//     map.removeLayer(f[i]);
+//   }
+// }
 
 /*==============================================
                 LEAFLET EVENTS

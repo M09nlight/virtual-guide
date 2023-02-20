@@ -16,10 +16,7 @@
 
 </head>
 <style>
-    #map {
-        width: 100%;
-        min-height: 100vh;
-    }
+
 
     .coordinate {
         position: absolute;
@@ -44,12 +41,9 @@
     }
    
     .leaflet-popup-content {
-        width: 350px !important;
+        width: 100% !important;
     }
 
-    .leaflet-container a.leaflet-popup-close-button {
-        right: -90px !important
-    }
 </style>
 
 <body>
