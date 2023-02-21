@@ -845,7 +845,7 @@ ul li a {
 }
 
 ul li a:hover {
-   color: var(--light-white) !important ;
+   color: var(--color6) !important ;
 }
 
 .flex-images{
