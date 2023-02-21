@@ -22,79 +22,79 @@
                 <h3>Gomel region hotels</h3>
                 <div class="grid">
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Bragin/Bragin.php" target="_blank">
+                        <a href="Bragin/Bragin.php">
                             <img src="../../images/hotels/gomel/1_.jpg" alt="">
                             <h3><span>Bragin</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Komarin/Komarin.php" target="_blank">
+                        <a href="Komarin/Komarin.php">
                             <img src="../../images/hotels/gomel/2_.jpg" alt="">
                             <h3><span>Komarin</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Vetka/Vetka.php" target="_blank">
+                        <a href="Vetka/Vetka.php">
                             <img src="../../images/hotels/gomel/4_.jpeg" alt="">
                             <h3><span>Vetka</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Gomel/Gomel.php" target="_blank">
+                        <a href="Gomel/Gomel.php">
                             <img src="../../images/hotels/gomel/5_.jpg" alt="">
                             <h3><span>Gomel</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Zhgun/Zhgun.php" target="_blank">
+                        <a href="Zhgun/Zhgun.php">
                             <img src="../../images/hotels/gomel/12_.jpg" alt="">
                             <h3><span>Zhgun</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Yelsk/Yelsk.php" target="_blank">
+                        <a href="Yelsk/Yelsk.php">
                             <img src="../../images/hotels/gomel/14_.jpg" alt="">
                             <h3><span>Yelsk</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Turov/Turov.php" target="_blank">
+                        <a href="Turov/Turov.php">
                             <img src="../../images/hotels/gomel/15_.jpg" alt="">
                             <h3><span>Turov</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Zhitkovichi/Zhitkovichi.php" target="_blank">
+                        <a href="Zhitkovichi/Zhitkovichi.php">
                             <img src="../../images/hotels/gomel/16_.jpg" alt="">
                             <h3><span>Zhitkovichi</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Zhlobin/Zhlobin.php" target="_blank">
+                        <a href="Zhlobin/Zhlobin.php">
                             <img src="../../images/hotels/gomel/20_.jpg" alt="">
                             <h3><span>Zhlobin</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Loev/Loev.php" target="_blank">
+                        <a href="Loev/Loev.php">
                             <img src="../../images/hotels/gomel/27_.jpg" alt="">
                             <h3><span>Loev</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Mozyr/Mozyr.php" target="_blank">
+                        <a href="Mozyr/Mozyr.php">
                             <img src="../../images/hotels/gomel/29_.jpg" alt="">
                             <h3><span>Mozyr</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Svetlogorsk/Svetlogorsk.php" target="_blank">
+                        <a href="Svetlogorsk/Svetlogorsk.php">
                             <img src="../../images/hotels/gomel/42_.jpg" alt="">
                             <h3><span>Svetlogorsk</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Rogachev/Rogachev.php" target="_blank">
+                        <a href="Rogachev/Rogachev.php">
                             <img src="../../images/hotels/gomel/39_.jpg" alt="">
                             <h3><span>Rogachev</span></h3>
                         </a>

@@ -10,6 +10,7 @@
    --black: #000;
    --color5: #254160;
    --color6: #f38b78;
+   --color7: #3fff00;
    --green: green;
    --light-green: rgb(13, 200, 13);
 }
@@ -255,7 +256,7 @@ section {
 .about .container2 .box h3 {
    padding: 2rem 0;
    font-size: 2rem;
-   color: var(--color6);
+   color: var(--color7);
 }
 
 
@@ -343,6 +344,17 @@ section {
    .navbar{
       flex-direction: column;
    }
+
+   .select {
+      width: 50% !important;
+   }
+
+   .about .container2 .box .person-block {
+      width: 50%;
+   }
+   .flex-images .image {
+      width: 45% !important;
+   }
 }
 
 @media (max-width:768px) {
@@ -354,6 +366,17 @@ section {
    }
    .image-block{
       width: 80% !important;
+   }
+   .select {
+      width: 90% !important;
+   }
+
+   .about .container2 .box .person-block {
+      width: 60%;
+   }
+
+   .flex-images .image {
+      width: 45% !important;
    }
 }
 
@@ -373,6 +396,16 @@ section {
    .image-block{
       width: 100% !important;
    }
+   .select {
+      width: 90% !important;
+   }
+   .about .container2 .box .person-block {
+      width: 80%;
+   }
+
+   .flex-images .image {
+      width: 45% !important;
+   }
 }
 
 @media (max-width:390px) {
@@ -387,6 +420,16 @@ section {
 
    .leaflet-popup-content-wrapper {
       width: 30rem !important;
+   }
+   .select {
+      width: 100% !important;
+   }
+   .about .container2 .box .person-block {
+      width: 90%;
+   }
+
+   .flex-images .image {
+      width: 45% !important;
    }
 }
 
@@ -558,7 +601,7 @@ body {
 } */
 
 .text {
-   text-indent: 40px;
+   text-indent: 3rem;
 }
 .text-left-30 {
    text-indent: 30px;
@@ -904,4 +947,11 @@ select option{
 
 .leaflet-bottom{
    display: none !important;
+}
+
+.route {
+   line-height: 2;
+   font-size: 1.5rem;
+   color: var(--white);
+   text-align: justify;
 }

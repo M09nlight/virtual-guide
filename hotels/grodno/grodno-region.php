@@ -22,73 +22,73 @@
                 <h3>Grodno region hotels</h3>
                 <div class="grid">
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Velyka Berestovitsa/Velyka Berestovitsa.php" target="_blank">
+                        <a href="Velyka Berestovitsa/Velyka Berestovitsa.php">
                             <img src="../../images/hotels/grodno/1_.jpg" alt="">
                             <h3><span>Velyka Berestovitsa</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Grodno/Grodno.php" target="_blank">
+                        <a href="Grodno/Grodno.php">
                             <img src="../../images/hotels/grodno/5_.jpg" alt="">
                             <h3><span>Grodno</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Lida/Lida.php" target="_blank">
+                        <a href="Lida/Lida.php">
                             <img src="../../images/hotels/grodno/24_.jpg" alt="">
                             <h3><span>Lida</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Smorgon/Smorgon.php" target="_blank">
+                        <a href="Smorgon/Smorgon.php">
                             <img src="../../images/hotels/grodno/46_.jpg" alt="">
                             <h3><span>Smorgon</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Slonim/Slonim.php" target="_blank">
+                        <a href="Slonim/Slonim.php">
                             <img src="../../images/hotels/grodno/43_.jpg" alt="">
                             <h3><span>Slonim</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Svisloch/Svisloch.php" target="_blank">
+                        <a href="Svisloch/Svisloch.php">
                             <img src="../../images/hotels/grodno/43_.jpg" alt="">
                             <h3><span>Svisloch</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Oshmyany/Oshmyany.php" target="_blank">
+                        <a href="Oshmyany/Oshmyany.php">
                             <img src="../../images/hotels/grodno/40_.jpg" alt="">
                             <h3><span>Oshmyany</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Mir/Mir.php" target="_blank">
+                        <a href="Mir/Mir.php">
                             <img src="../../images/hotels/grodno/22_.jpg" alt="">
                             <h3><span>Mir</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Volkovysk/Volkovysk.php" target="_blank">
+                        <a href="Volkovysk/Volkovysk.php">
                             <img src="../../images/hotels/grodno/3_.jpg" alt="">
                             <h3><span>Volkovysk</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Zelva/Zelva.php" target="_blank">
+                        <a href="Zelva/Zelva.php">
                             <img src="../../images/hotels/grodno/16_.jpg" alt="">
                             <h3><span>Zelva</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Olkhovo/Olkhovo.php" target="_blank">
+                        <a href="Olkhovo/Olkhovo.php">
                             <img src="../../images/hotels/grodno/4_.jpg" alt="">
                             <h3><span>Olkhovo</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Boroviki/Boroviki.php" target="_blank">
+                        <a href="Boroviki/Boroviki.php">
                             <img src="../../images/hotels/grodno/13_.jpg" alt="">
                             <h3><span>Boroviki</span></h3>
                         </a>

@@ -22,67 +22,67 @@
                 <h3>Brest region hotels</h3>
                 <div class="grid">
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Brest/Brest.php" target="_blank">
+                        <a href="Brest/Brest.php">
                             <img src="../../images/hotels/brest/1_.jpg" alt="">
                             <h3><span>Brest</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Baranovichi/Baranovichi.php" target="_blank">
+                        <a href="Baranovichi/Baranovichi.php">
                             <img src="../../images/hotels/brest/9_.jpg" alt="">
                             <h3><span>Baranovichi</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Drohichin/Drohichin.php" target="_blank">
+                        <a href="Drohichin/Drohichin.php">
                             <img src="../../images/hotels/brest/11_.jpg" alt="">
                             <h3><span>Drohichin</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Ivantsevichi/Ivantsevichi.php" target="_blank">
+                        <a href="Ivantsevichi/Ivantsevichi.php">
                             <img src="../../images/hotels/brest/12_.jpg" alt="">
                             <h3><span>Ivantsevichi</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Kamenets/Kamenets.php" target="_blank">
+                        <a href="Kamenets/Kamenets.php">
                             <img src="../../images/hotels/brest/14_.jpg" alt="">
                             <h3><span>Kamenets</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Kobrin/Kobrin.php" target="_blank">
+                        <a href="Kobrin/Kobrin.php">
                             <img src="../../images/hotels/brest/16_.jpg" alt="">
                             <h3><span>Kobrin</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Pinsk/Pinsk.php" target="_blank">
+                        <a href="Pinsk/Pinsk.php">
                             <img src="../../images/hotels/brest/18_.jpg" alt="">
                             <h3><span>Pinsk</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Pruzhany/Pruzhany.php" target="_blank">
+                        <a href="Pruzhany/Pruzhany.php">
                             <img src="../../images/hotels/brest/20_.jpg" alt="">
                             <h3><span>Pruzhany</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Stolin/Stolin.php" target="_blank">
+                        <a href="Stolin/Stolin.php">
                             <img src="../../images/hotels/brest/22_.jpg" alt="">
                             <h3><span>Stolin</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Malorita/Malorita.php" target="_blank">
+                        <a href="Malorita/Malorita.php">
                             <img src="../../images/hotels/brest/24_.jpg" alt="">
                             <h3><span>Malorita</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Ruzhany/Ruzhany.php" target="_blank">
+                        <a href="Ruzhany/Ruzhany.php">
                             <img src="../../images/hotels/brest/25_.jpg" alt="">
                             <h3><span>Ruzhany</span></h3>
                         </a>

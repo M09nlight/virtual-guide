@@ -2,9 +2,9 @@
     <section class="flex">
       <a href="/welcome-to-belarus/index.php" class="logo">Welcome to Belarus</a>
       <nav class="langbar">
-        <span alt="en" data-google-lang="en" class="active">En</span>
-        <span alt="fr" data-google-lang="fr">FR</span>
-        <span alt="de" data-google-lang="de">DE</span>
+        <span  data-google-lang="en" class="active" translate="no">En</span>
+        <span data-google-lang="fr" translate="no">Fr</span>
+        <span data-google-lang="de" translate="no">De</span>
       </nav>
 
       <nav class="navbar">
