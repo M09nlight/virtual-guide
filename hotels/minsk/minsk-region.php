@@ -22,67 +22,67 @@
                 <h3>Minsk region hotels</h3>
                 <div class="grid">
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Minsk/Minsk.php" target="_blank">
+                        <a href="Minsk/Minsk.php">
                             <img src="../../images/hotels/minsk/20_.jpg" alt="">
                             <h3><span>Minsk</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Borisov/Borisov.php" target="_blank">
+                        <a href="Borisov/Borisov.php">
                             <img src="../../images/hotels/minsk/1_.jpg" alt="">
                             <h3><span>Borisov</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Soligorsk/Soligorsk.php" target="_blank">
+                        <a href="Soligorsk/Soligorsk.php">
                             <img src="../../images/hotels/minsk/4_.jpg" alt="">
                             <h3><span>Soligorsk</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Molodechno/Molodechno.php" target="_blank">
+                        <a href="Molodechno/Molodechno.php">
                             <img src="../../images/hotels/minsk/7_.jpg" alt="">
                             <h3><span>Molodechno</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Zhodino/Zhodino.php" target="_blank">
+                        <a href="Zhodino/Zhodino.php">
                             <img src="../../images/hotels/minsk/9_.jpg" alt="">
                             <h3><span>Zhodino</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Slutsk/Slutsk.php" target="_blank">
+                        <a href="Slutsk/Slutsk.php">
                             <img src="../../images/hotels/minsk/11_2.jpg" alt="">
                             <h3><span>Slutsk</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Dzerzhinsk/Dzerzhinsk.php" target="_blank">
+                        <a href="Dzerzhinsk/Dzerzhinsk.php">
                             <img src="../../images/hotels/minsk/12_2.jpg" alt="">
                             <h3><span>Dzerzhinsk</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Vileyka/Vileyka.php" target="_blank">
+                        <a href="Vileyka/Vileyka.php">
                             <img src="../../images/hotels/minsk/13_2.jpg" alt="">
                             <h3><span>Vileyka</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Smolevichi/Smolevichi.php" target="_blank">
+                        <a href="Smolevichi/Smolevichi.php">
                             <img src="../../images/hotels/minsk/14_2.jpg" alt="">
                             <h3><span>Smolevichi</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Maryina Gorka/Maryina Gorka.php" target="_blank">
+                        <a href="Maryina Gorka/Maryina Gorka.php">
                             <img src="../../images/hotels/minsk/17_.jpg" alt="">
                             <h3><span>Maryina Gorka</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Borovlyany/Borovlyany.php" target="_blank">
+                        <a href="Borovlyany/Borovlyany.php">
                             <img src="../../images/hotels/minsk/18_2.jpg" alt="">
                             <h3><span>Borovlyany</span></h3>
                         </a>

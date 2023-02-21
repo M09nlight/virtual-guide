@@ -22,61 +22,61 @@
                 <div class="grid">
 
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="brest-city/brest.php" target="_blank">
+                        <a href="brest-city/brest.php">
                             <img src="../../images/eat/brest/1_.jpg" alt="">
                             <h3><span>Brest</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="baranovichi-city/baranovichi.php" target="_blank">
+                        <a href="baranovichi-city/baranovichi.php">
                             <img src="../../images/eat/brest/9_.jpg" alt="">
                             <h3><span>Baranovichi</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="drogichin-city/drogichin.php" target="_blank">
+                        <a href="drogichin-city/drogichin.php">
                             <img src="../../images/eat/brest/11_.jpg" alt="">
                             <h3><span>Drogichin</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="ivantsevichi-city/ivantsevichi.php" target="_blank">
+                        <a href="ivantsevichi-city/ivantsevichi.php">
                             <img src="../../images/eat/brest/13_.jpg" alt="">
                             <h3><span>Ivantsevichi</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="kamenets-city/kamenets.php" target="_blank">
+                        <a href="kamenets-city/kamenets.php">
                             <img src="../../images/eat/brest/14_.jpg" alt="">
                             <h3><span>Kamenets</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="kobrin-city/kobrin.php" target="_blank">
+                        <a href="kobrin-city/kobrin.php">
                             <img src="../../images/eat/brest/15_.jpg" alt="">
                             <h3><span>Kobrin</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="pinsk-city/Pinsk.php" target="_blank">
+                        <a href="pinsk-city/Pinsk.php">
                             <img src="../../images/eat/brest/17_.jpg" alt="">
                             <h3><span>Pinsk</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="pruzhany-city/pruzhany.php" target="_blank">
+                        <a href="pruzhany-city/pruzhany.php">
                             <img src="../../images/eat/brest/19_.jpg" alt="">
                             <h3><span>Pruzhany</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="stolin-city/stolin.php" target="_blank">
+                        <a href="stolin-city/stolin.php">
                             <img src="../../images/eat/brest/20_.jpg" alt="">
                             <h3><span>Stolin</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="malorita-city/malorita.php" target="_blank">
+                        <a href="malorita-city/malorita.php">
                             <img src="../../images/eat/brest/21_.jpg" alt="">
                             <h3><span>Malorita</span></h3>
                         </a>

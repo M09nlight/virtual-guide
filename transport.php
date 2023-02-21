@@ -22,14 +22,14 @@
             <div class="box" data-aos="fade-up">
                 <h3>Transport </h3>
               <ul>
-                <li><a href="http://airport.by/">Minsk National Airport</a></li>
-                <li><a href="https://belavia.by/">Belarusian airline Belavia</a></li>
-                <li><a href="https://www.rw.by/">Website of the Belarusian railway, where you can buy tickets online</a></li>
-                <li><a href="https://ticketbus.by/">Bus tickets in Belarus</a></li>
-                <li><a href="https://ecolines.by/by/ru">By bus to Europe from Minsk</a></li>
-                <li><a href="https://support-uber.com/ru_by/">Service for calling a taxi</a></li>
-                <li><a href="https://www.sixt.by/">Car rental</a></li>
-                <li><a href="http://velobelarus.com/12-prokat/minsk/">Bike rental throughout Belarus</a></li>
+                <li><a target="_blank" href="http://airport.by/">Minsk National Airport</a></li>
+                <li><a target="_blank" href="https://belavia.by/">Belarusian airline Belavia</a></li>
+                <li><a target="_blank" href="https://www.rw.by/">Website of the Belarusian railway, where you can buy tickets online</a></li>
+                <li><a target="_blank" href="https://ticketbus.by/">Bus tickets in Belarus</a></li>
+                <li><a target="_blank" href="https://ecolines.by/by/ru">By bus to Europe from Minsk</a></li>
+                <li><a target="_blank" href="https://support-uber.com/ru_by/">Service for calling a taxi</a></li>
+                <li><a target="_blank" href="https://www.sixt.by/">Car rental</a></li>
+                <li><a target="_blank" href="http://velobelarus.com/12-prokat/minsk/">Bike rental throughout Belarus</a></li>
               </ul>
             </div>
         </section>

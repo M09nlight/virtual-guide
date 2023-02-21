@@ -24,31 +24,31 @@
                 <h3>Mogilev region eat</h3>
                 <div class="grid">
                 <div class="box-img" data-aos="zoom-in">
-                        <a href="Mogilev/Mogilev.php" target="_blank">
+                        <a href="Mogilev/Mogilev.php">
                             <img src="../../images/eat/minsk/7_.jpg" alt="">
                             <h3><span>Mogilev</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Bobruisk/Bobruisk.php" target="_blank">
+                        <a href="Bobruisk/Bobruisk.php">
                             <img src="../../images/eat/minsk/1_.jpg" alt="">
                             <h3><span>Bobruisk</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Gorki/Gorki.php" target="_blank">
+                        <a href="Gorki/Gorki.php">
                             <img src="../../images/eat/minsk/3_.jpg" alt="">
                             <h3><span>Gorki</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Shklov/Shklov.php" target="_blank">
+                        <a href="Shklov/Shklov.php">
                             <img src="../../images/eat/minsk/5_.jpg" alt="">
                             <h3><span>Shklov</span></h3>
                         </a>
                     </div>
                     <div class="box-img" data-aos="zoom-in">
-                        <a href="Mstislavl/Mstislavl.php" target="_blank">
+                        <a href="Mstislavl/Mstislavl.php">
                             <img src="../../images/eat/minsk/6_.jpg" alt="">
                             <h3><span>Mstislavl</span></h3>
                         </a>

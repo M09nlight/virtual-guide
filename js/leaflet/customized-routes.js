@@ -24,15 +24,17 @@ let routingControl = [];
 let arrPoints = [];
 let routesHtml = document.getElementsByClassName("route1");
 
-window.onload = () =>{
+window.onload = () => {
   checkRoute();
-}
+};
 
 select.onchange = () => {
   checkRoute();
 };
 
-function checkRoute(){
+
+let p = document.createElement("p");
+function checkRoute() {
   clearRoutes();
   switch (select.value) {
     case "route1":
@@ -44,6 +46,8 @@ function checkRoute(){
       arrayRoute[4] = [52.4157, 31.0165];
 
       routesHtml = document.getElementsByClassName("route1");
+      p.innerText =
+        "Mir Castle - Nesvizh Castle - Golshany Castle - Lida Castle - Rumyantsev-Paskevich Palace";
       break;
     case "route2":
       arrayRoute = [];
@@ -54,8 +58,10 @@ function checkRoute(){
       arrayRoute[4] = [55.20037537760974, 30.190506611637964];
 
       routesHtml = document.getElementsByClassName("route2");
+      p.innerText =
+        "Great Patriotic War Museum in Minsk - The museum of Stones in Minsk -The  Museum of the Belarusian Art - Mark Chagall Museum in Vitebsk - Museum complex of ancient crafts and technologies «Dududki»";
       break;
-    case "route3"://need edit
+    case "route3": //need edit
       arrayRoute = [];
       arrayRoute[0] = [52.0627, 27.736];
       arrayRoute[1] = [52.111, 28.1542];
@@ -63,7 +69,10 @@ function checkRoute(){
       arrayRoute[3] = [52.3145, 25.6145];
       arrayRoute[4] = [52.56986872384893, 23.804028647785778];
 
-      routesHtml = document.getElementsByClassName("route3");
+      routesHtml = document.getElementsByClassName("route3"); 
+      p.innerText =
+      "Turov - Lyaskovichi - Pinsk - Motol - Brest - Belovezhskaya Pushcha";
+
       break;
     case "route4":
       arrayRoute = [];
@@ -74,31 +83,41 @@ function checkRoute(){
       arrayRoute[4] = [54.05842224049552, 27.301979579026032];
 
       routesHtml = document.getElementsByClassName("route4");
+      p.innerText =
+      "Minsk Victory Square - The Mound of Glory - Khatyn Memorial - Brest Fortress - Stalin Line Complex - Stalin Line Complex";
       break;
     case "route5":
       arrayRoute = [];
-      arrayRoute[0] = [54.74840, 28.31277];
+      arrayRoute[0] = [54.7484, 28.31277];
       arrayRoute[1] = [55.64532, 27.01683];
       arrayRoute[2] = [52.56945, 23.80303];
       arrayRoute[3] = [54.92577, 26.6918];
       arrayRoute[4] = [52.13942, 26.88925];
-    
+
       routesHtml = document.getElementsByClassName("route5");
+      p.innerText =
+      "The Berezinsky Biosphere Reserve – The National Park 'Braslav Lakes' – The National Park Belovezhskaya Pushcha - The National Park 'Narochansky'- The National Park 'Pripyatsky'";
       break;
     case "route6":
       arrayRoute = [];
-      arrayRoute[0] = [55.63955, 27.02770];
+      arrayRoute[0] = [55.63955, 27.0277];
       arrayRoute[1] = [55.68811, 27.18517];
       arrayRoute[2] = [55.79144, 27.44746];
-      arrayRoute[3] = [55.72190, 27.56473];
-      arrayRoute[4] = [55.62540, 27.35201];
+      arrayRoute[3] = [55.7219, 27.56473];
+      arrayRoute[4] = [55.6254, 27.35201];
       arrayRoute[5] = [55.62297, 27.63563];
-    
+
       routesHtml = document.getElementsByClassName("route6");
+      p.innerText =
+      "Braslav - Slabodka - Druya - Idolta - Camping Mereya - Miory";
       break;
     default:
       break;
   }
+
+  p.classList.add("route");
+  p.classList.add("text");
+  select.parentNode.after(p);
   arrPoints = [];
   for (let i = 0; i < arrayRoute.length; i++) {
     arrPoints.push(L.latLng(arrayRoute[i]));
