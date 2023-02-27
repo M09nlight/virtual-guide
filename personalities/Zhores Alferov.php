@@ -20,7 +20,7 @@
         <section class="container2">
             <div class="box" data-aos="fade-up">
                 <h3>Zhores Alferov </h3>
-                <img src="../images/personalities/7_.jpg" alt="" class="person-block">
+                <img src="../images/personalities/7_.png" alt="" class="person-block">
                 <p class="text">Academician Zhores Alferov is the winner of the Nobel Prize in Physics for 2000. He is
                     one of the greatest scientists of our time in the field of semiconductor technology, his works are
                     widely known and recognized worldwide, included in textbooks and monographs. Almost every inhabitant
